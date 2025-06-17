@@ -1,0 +1,985 @@
+[2025-06-11 22:28:14] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-11 22:29:51] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-11 22:29:54] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-11 22:29:54] [INFO ] [WebDriverManager] - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2025-06-11 22:29:55] [INFO ] [Downloader] - Downloading https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver/137.0.3296.68/edgedriver_win64.zip
+[2025-06-11 22:30:05] [INFO ] [Downloader] - Extracting driver from compressed file edgedriver_win64.zip
+[2025-06-11 22:30:05] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-11 22:30:13] [INFO ] [Myfile] - URL opened
+[2025-06-11 22:30:15] [INFO ] [Myfile] - signin clicked
+[2025-06-11 22:30:16] [INFO ] [Myfile] - User Login Successfull
+[2025-06-11 22:30:17] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-11 22:30:18] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-11 22:30:23] [INFO ] [Myfile] - URL opened
+[2025-06-11 22:30:25] [INFO ] [Myfile] - signin clicked
+[2025-06-11 22:30:37] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-11 22:30:38] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-11 22:30:43] [INFO ] [Myfile] - URL opened
+[2025-06-11 22:30:45] [INFO ] [Myfile] - signin clicked
+[2025-06-12 11:47:19] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 11:48:28] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 11:49:14] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 11:49:23] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 11:49:23] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 11:49:32] [INFO ] [Myfile] - URL opened
+[2025-06-12 11:49:33] [INFO ] [Myfile] - signin clicked
+[2025-06-12 11:49:35] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 11:50:25] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 11:50:26] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 11:50:26] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 11:50:33] [INFO ] [Myfile] - URL opened
+[2025-06-12 11:50:36] [INFO ] [Myfile] - signin clicked
+[2025-06-12 11:50:37] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 11:51:43] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 11:51:44] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 11:51:44] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 11:51:51] [INFO ] [Myfile] - URL opened
+[2025-06-12 11:51:53] [INFO ] [Myfile] - signin clicked
+[2025-06-12 11:51:55] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 11:56:18] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 11:56:18] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 11:56:18] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 11:56:29] [INFO ] [Myfile] - URL opened
+[2025-06-12 11:56:32] [INFO ] [Myfile] - signin clicked
+[2025-06-12 11:56:33] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 11:57:51] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 11:57:52] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 11:57:52] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 11:57:59] [INFO ] [Myfile] - URL opened
+[2025-06-12 11:58:01] [INFO ] [Myfile] - signin clicked
+[2025-06-12 11:58:02] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 12:30:35] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 12:30:35] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 12:30:35] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 12:30:47] [INFO ] [Myfile] - URL opened
+[2025-06-12 12:30:49] [INFO ] [Myfile] - signin clicked
+[2025-06-12 12:30:50] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 17:06:33] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 17:06:45] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 17:06:45] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 17:07:15] [INFO ] [Myfile] - URL opened
+[2025-06-12 17:07:33] [INFO ] [Myfile] - signin clicked
+[2025-06-12 17:07:39] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 17:15:58] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 17:16:03] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 17:16:04] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 17:16:37] [INFO ] [Myfile] - URL opened
+[2025-06-12 17:17:09] [INFO ] [Myfile] - signin clicked
+[2025-06-12 17:17:16] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 17:22:08] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 17:22:13] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 17:22:13] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 17:22:41] [INFO ] [Myfile] - URL opened
+[2025-06-12 17:22:52] [INFO ] [Myfile] - signin clicked
+[2025-06-12 17:22:57] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 17:24:28] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 17:24:33] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 17:24:34] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 17:25:02] [INFO ] [Myfile] - URL opened
+[2025-06-12 17:25:11] [INFO ] [Myfile] - signin clicked
+[2025-06-12 17:25:15] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 17:27:03] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 17:27:08] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 17:27:08] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 17:27:35] [INFO ] [Myfile] - URL opened
+[2025-06-12 17:27:43] [INFO ] [Myfile] - signin clicked
+[2025-06-12 17:27:48] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 17:28:33] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 17:28:41] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 17:28:41] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 17:29:21] [INFO ] [Myfile] - URL opened
+[2025-06-12 17:30:49] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 17:30:56] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 17:30:56] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 17:31:25] [INFO ] [Myfile] - URL opened
+[2025-06-12 17:31:33] [INFO ] [Myfile] - signin clicked
+[2025-06-12 17:31:38] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 17:33:00] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 17:33:06] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 17:33:07] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 17:33:36] [INFO ] [Myfile] - URL opened
+[2025-06-12 17:33:47] [INFO ] [Myfile] - signin clicked
+[2025-06-12 17:33:52] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 17:38:28] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 17:38:33] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 17:38:33] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 17:39:01] [INFO ] [Myfile] - URL opened
+[2025-06-12 17:39:09] [INFO ] [Myfile] - signin clicked
+[2025-06-12 17:39:16] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 17:47:01] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 17:47:05] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 17:47:05] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 17:47:32] [INFO ] [Myfile] - URL opened
+[2025-06-12 17:47:46] [INFO ] [Myfile] - signin clicked
+[2025-06-12 17:47:52] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 18:04:54] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 18:04:59] [INFO ] [WebDriverManager] - Using msedgedriver 137.0.3296.68 (resolved driver for Edge 137)
+[2025-06-12 18:04:59] [INFO ] [WebDriverManager] - Exporting webdriver.edge.driver as C:\Users\User\.cache\selenium\msedgedriver\win64\137.0.3296.68\msedgedriver.exe
+[2025-06-12 18:05:26] [INFO ] [Myfile] - URL opened
+[2025-06-12 18:05:39] [INFO ] [Myfile] - signin clicked
+[2025-06-12 18:05:44] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 18:07:21] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 18:07:32] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 18:07:32] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 18:07:55] [INFO ] [Myfile] - URL opened
+[2025-06-12 18:08:02] [INFO ] [Myfile] - signin clicked
+[2025-06-12 18:08:06] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 18:12:49] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 18:12:50] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 18:12:50] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 18:12:57] [INFO ] [Myfile] - URL opened
+[2025-06-12 18:12:59] [INFO ] [Myfile] - signin clicked
+[2025-06-12 18:13:01] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 18:13:01] [INFO ] [Myfile] - faded selected
+[2025-06-12 18:14:58] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 18:14:59] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 18:14:59] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 18:15:07] [INFO ] [Myfile] - URL opened
+[2025-06-12 18:15:09] [INFO ] [Myfile] - signin clicked
+[2025-06-12 18:15:10] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 18:27:32] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 18:27:33] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 18:27:33] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 18:27:41] [INFO ] [Myfile] - URL opened
+[2025-06-12 18:27:42] [INFO ] [Myfile] - signin clicked
+[2025-06-12 18:27:43] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 18:31:38] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 18:31:39] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 18:31:39] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 18:31:45] [INFO ] [Myfile] - URL opened
+[2025-06-12 18:31:47] [INFO ] [Myfile] - signin clicked
+[2025-06-12 18:31:49] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 18:43:11] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 18:43:11] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 18:43:12] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 18:43:18] [INFO ] [Myfile] - URL opened
+[2025-06-12 18:43:20] [INFO ] [Myfile] - signin clicked
+[2025-06-12 18:43:21] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 18:51:29] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 18:51:30] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 18:51:30] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 18:51:36] [INFO ] [Myfile] - URL opened
+[2025-06-12 18:51:38] [INFO ] [Myfile] - signin clicked
+[2025-06-12 18:51:39] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 18:55:51] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 18:55:52] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 18:55:52] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 18:55:58] [INFO ] [Myfile] - URL opened
+[2025-06-12 18:56:00] [INFO ] [Myfile] - signin clicked
+[2025-06-12 18:56:01] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 18:59:16] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 18:59:16] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 18:59:16] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 18:59:23] [INFO ] [Myfile] - URL opened
+[2025-06-12 18:59:25] [INFO ] [Myfile] - signin clicked
+[2025-06-12 18:59:26] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:01:51] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:01:51] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:01:51] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:01:58] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:01:59] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:02:01] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:04:09] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:05:36] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:05:37] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:05:37] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:05:43] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:05:45] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:05:46] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:08:38] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:08:39] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:08:39] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:08:46] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:08:48] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:08:49] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:08:49] [INFO ] [Myfile] - faded selected
+[2025-06-12 19:09:33] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:09:33] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:09:33] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:09:40] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:09:41] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:09:43] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:09:43] [INFO ] [Myfile] - faded selected
+[2025-06-12 19:11:18] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:11:18] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:11:18] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:11:25] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:11:27] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:11:28] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:11:28] [INFO ] [Myfile] - faded selected
+[2025-06-12 19:19:29] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:19:29] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:19:29] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:19:36] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:19:38] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:19:39] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:29:17] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:29:17] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:29:17] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:29:24] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:29:25] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:29:27] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:35:54] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:35:54] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:35:54] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:36:02] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:36:04] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:36:05] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:36:08] [INFO ] [Myfile] - faded selected
+[2025-06-12 19:37:51] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:37:51] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:37:51] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:37:58] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:38:00] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:38:01] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:38:40] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:38:41] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:38:41] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:38:47] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:38:50] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:38:51] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:38:56] [INFO ] [Myfile] - faded selected
+[2025-06-12 19:39:50] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:39:51] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:39:51] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:39:58] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:39:59] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:40:01] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:40:04] [INFO ] [Myfile] - faded selected
+[2025-06-12 19:46:36] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:46:37] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:46:37] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:46:44] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:46:46] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:46:47] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:46:48] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-12 19:49:04] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:49:05] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:49:05] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:49:12] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:49:14] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:49:15] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:49:17] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-12 19:56:50] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:56:50] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:56:50] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:56:58] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:56:59] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:57:01] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:57:45] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:57:46] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:57:46] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:57:52] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:57:54] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:57:55] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 19:58:58] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 19:58:59] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 19:58:59] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 19:59:05] [INFO ] [Myfile] - URL opened
+[2025-06-12 19:59:07] [INFO ] [Myfile] - signin clicked
+[2025-06-12 19:59:08] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 20:01:49] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:01:50] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:01:50] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:01:57] [INFO ] [Myfile] - URL opened
+[2025-06-12 20:01:59] [INFO ] [Myfile] - signin clicked
+[2025-06-12 20:02:00] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 20:06:58] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:06:58] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:06:58] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:07:05] [INFO ] [Myfile] - URL opened
+[2025-06-12 20:07:06] [INFO ] [Myfile] - signin clicked
+[2025-06-12 20:07:08] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 20:08:16] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:08:16] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:08:16] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:08:25] [INFO ] [Myfile] - URL opened
+[2025-06-12 20:08:27] [INFO ] [Myfile] - signin clicked
+[2025-06-12 20:08:29] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 20:08:34] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-12 20:09:02] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:09:03] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:09:03] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:09:11] [INFO ] [Myfile] - URL opened
+[2025-06-12 20:09:13] [INFO ] [Myfile] - signin clicked
+[2025-06-12 20:09:15] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 20:09:18] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-12 20:10:29] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:10:29] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:10:30] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:10:36] [INFO ] [Myfile] - URL opened
+[2025-06-12 20:10:38] [INFO ] [Myfile] - signin clicked
+[2025-06-12 20:10:39] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 20:11:04] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:11:05] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:11:05] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:11:13] [INFO ] [Myfile] - URL opened
+[2025-06-12 20:11:15] [INFO ] [Myfile] - signin clicked
+[2025-06-12 20:11:17] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 20:52:22] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:52:22] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:52:22] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:52:30] [INFO ] [Myfile] - URL opened
+[2025-06-12 20:52:32] [INFO ] [Myfile] - signin clicked
+[2025-06-12 20:52:33] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 20:52:38] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-12 20:57:08] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:57:09] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:57:09] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:57:16] [INFO ] [Myfile] - URL opened
+[2025-06-12 20:57:18] [INFO ] [Myfile] - signin clicked
+[2025-06-12 20:57:20] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 20:57:33] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-12 20:58:18] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 20:58:19] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 20:58:19] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 20:58:26] [INFO ] [Myfile] - URL opened
+[2025-06-12 20:58:27] [INFO ] [Myfile] - signin clicked
+[2025-06-12 20:58:29] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 20:58:33] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-12 21:41:01] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 21:41:03] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 21:41:03] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 21:41:09] [INFO ] [Myfile] - URL opened
+[2025-06-12 21:41:11] [INFO ] [Myfile] - signin clicked
+[2025-06-12 21:41:12] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 21:44:52] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 21:44:54] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 21:44:54] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 21:45:01] [INFO ] [Myfile] - URL opened
+[2025-06-12 21:45:03] [INFO ] [Myfile] - signin clicked
+[2025-06-12 21:45:04] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 21:45:49] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 21:45:49] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 21:45:49] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 21:45:56] [INFO ] [Myfile] - URL opened
+[2025-06-12 21:45:57] [INFO ] [Myfile] - signin clicked
+[2025-06-12 21:45:59] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 21:46:54] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 21:46:55] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 21:46:55] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 21:47:01] [INFO ] [Myfile] - URL opened
+[2025-06-12 21:47:03] [INFO ] [Myfile] - signin clicked
+[2025-06-12 21:47:04] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 21:48:05] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 21:48:05] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 21:48:05] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 21:48:12] [INFO ] [Myfile] - URL opened
+[2025-06-12 21:48:13] [INFO ] [Myfile] - signin clicked
+[2025-06-12 21:48:15] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 21:48:46] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 21:48:47] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 21:48:47] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 21:48:53] [INFO ] [Myfile] - URL opened
+[2025-06-12 21:48:55] [INFO ] [Myfile] - signin clicked
+[2025-06-12 21:48:56] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 21:51:52] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-12 21:51:53] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-12 21:51:53] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-12 21:52:00] [INFO ] [Myfile] - URL opened
+[2025-06-12 21:52:01] [INFO ] [Myfile] - signin clicked
+[2025-06-12 21:52:03] [INFO ] [Myfile] - User Login Successfull
+[2025-06-12 21:52:09] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-16 18:17:14] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-16 18:17:25] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-16 18:17:26] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-16 18:17:54] [INFO ] [Myfile] - URL opened
+[2025-06-16 18:18:08] [INFO ] [Myfile] - signin clicked
+[2025-06-16 18:18:15] [INFO ] [Myfile] - User Login Successfull
+[2025-06-16 18:18:43] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-16 18:39:51] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-16 18:39:55] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-16 18:39:55] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-16 18:40:25] [INFO ] [Myfile] - URL opened
+[2025-06-16 18:40:39] [INFO ] [Myfile] - signin clicked
+[2025-06-16 18:40:44] [INFO ] [Myfile] - User Login Successfull
+[2025-06-16 18:41:08] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-16 19:15:59] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-16 19:16:03] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-16 19:16:03] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-16 19:16:31] [INFO ] [Myfile] - URL opened
+[2025-06-16 19:16:44] [INFO ] [Myfile] - signin clicked
+[2025-06-16 19:16:50] [INFO ] [Myfile] - User Login Successfull
+[2025-06-16 19:17:06] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-16 19:17:08] [INFO ] [Myfile] - ammount summary page executed
+[2025-06-16 19:21:30] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-16 19:21:41] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-16 19:21:41] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-16 19:22:09] [INFO ] [Myfile] - URL opened
+[2025-06-16 19:22:24] [INFO ] [Myfile] - signin clicked
+[2025-06-16 19:22:29] [INFO ] [Myfile] - User Login Successfull
+[2025-06-16 19:22:47] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-16 19:22:49] [INFO ] [Myfile] - ammount summary page executed
+[2025-06-16 19:26:14] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-16 19:26:18] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-16 19:26:18] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-16 19:26:45] [INFO ] [Myfile] - URL opened
+[2025-06-16 19:27:02] [INFO ] [Myfile] - signin clicked
+[2025-06-16 19:27:08] [INFO ] [Myfile] - User Login Successfull
+[2025-06-16 19:27:26] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-16 19:27:27] [INFO ] [Myfile] - ammount summary page executed
+[2025-06-16 19:33:47] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-16 19:33:51] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-16 19:33:51] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-16 19:34:14] [INFO ] [Myfile] - URL opened
+[2025-06-16 19:34:33] [INFO ] [Myfile] - signin clicked
+[2025-06-16 19:34:37] [INFO ] [Myfile] - User Login Successfull
+[2025-06-16 19:34:58] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-16 19:35:00] [INFO ] [Myfile] - ammount summary page executed
+[2025-06-16 19:35:01] [INFO ] [Myfile] - BillingAdress page executed
+[2025-06-16 19:35:03] [INFO ] [Myfile] - ShippingAdress page executed
+[2025-06-16 19:35:13] [INFO ] [Myfile] - payment page executed
+[2025-06-16 19:51:53] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-16 19:51:57] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-16 19:51:58] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-16 19:52:19] [INFO ] [Myfile] - URL opened
+[2025-06-16 19:52:39] [INFO ] [Myfile] - signin clicked
+[2025-06-16 19:52:45] [INFO ] [Myfile] - User Login Successfull
+[2025-06-16 19:53:01] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-16 19:53:02] [INFO ] [Myfile] - ammount summary page executed
+[2025-06-16 19:53:04] [INFO ] [Myfile] - BillingAdress page executed
+[2025-06-16 19:53:07] [INFO ] [Myfile] - ShippingAdress page executed
+[2025-06-16 19:53:17] [INFO ] [Myfile] - payment page executed
+[2025-06-16 20:13:10] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-16 20:13:14] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-16 20:13:14] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-16 20:13:39] [INFO ] [Myfile] - URL opened
+[2025-06-16 20:13:55] [INFO ] [Myfile] - signin clicked
+[2025-06-16 20:14:01] [INFO ] [Myfile] - User Login Successfull
+[2025-06-16 20:15:47] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-16 20:15:51] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-16 20:15:52] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-16 20:16:11] [INFO ] [Myfile] - URL opened
+[2025-06-16 20:16:34] [INFO ] [Myfile] - signin clicked
+[2025-06-16 20:16:39] [INFO ] [Myfile] - User Login Successfull
+[2025-06-16 20:16:57] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-16 20:16:59] [INFO ] [Myfile] - ammount summary page executed
+[2025-06-16 20:17:02] [INFO ] [Myfile] - BillingAdress page executed
+[2025-06-16 20:17:05] [INFO ] [Myfile] - ShippingAdress page executed
+[2025-06-16 20:17:16] [INFO ] [Myfile] - payment page executed
+[2025-06-16 20:17:18] [INFO ] [Myfile] - Signout successfull
+[2025-06-16 20:33:56] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-16 20:34:06] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-16 20:34:06] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-16 20:34:31] [INFO ] [Myfile] - URL opened
+[2025-06-16 20:34:45] [INFO ] [Myfile] - signin clicked
+[2025-06-16 20:34:50] [INFO ] [Myfile] - User Login Successfull
+[2025-06-16 20:38:11] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-16 20:38:15] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-16 20:38:16] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-16 20:38:47] [INFO ] [Myfile] - URL opened
+[2025-06-16 20:39:21] [INFO ] [Myfile] - signin clicked
+[2025-06-16 20:39:35] [INFO ] [Myfile] - User Login Successfull
+[2025-06-16 20:39:58] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-16 20:40:01] [INFO ] [Myfile] - ammount summary page executed
+[2025-06-16 20:40:04] [INFO ] [Myfile] - BillingAdress page executed
+[2025-06-16 20:40:07] [INFO ] [Myfile] - ShippingAdress page executed
+[2025-06-16 20:40:20] [INFO ] [Myfile] - payment page executed
+[2025-06-16 20:40:24] [INFO ] [Myfile] - Signout successfull
+[2025-06-16 20:48:35] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-16 20:48:40] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-16 20:48:40] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-16 20:49:06] [INFO ] [Myfile] - URL opened
+[2025-06-16 20:49:21] [INFO ] [Myfile] - signin clicked
+[2025-06-16 20:49:27] [INFO ] [Myfile] - User Login Successfull
+[2025-06-16 20:49:45] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-16 20:49:47] [INFO ] [Myfile] - ammount summary page executed
+[2025-06-16 20:49:50] [INFO ] [Myfile] - BillingAdress page executed
+[2025-06-16 20:49:52] [INFO ] [Myfile] - ShippingAdress page executed
+[2025-06-16 20:50:01] [INFO ] [Myfile] - payment page executed
+[2025-06-16 20:50:04] [INFO ] [Myfile] - Signout successfull
+[2025-06-16 20:55:57] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-16 20:56:01] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-16 20:56:01] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-17 09:38:38] [INFO ] [Utils] - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[2025-06-17 09:38:51] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-17 09:38:51] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-17 09:39:14] [INFO ] [Myfile] - URL opened
+[2025-06-17 09:39:37] [INFO ] [Myfile] - signin clicked
+[2025-06-17 09:39:42] [INFO ] [Myfile] - User Login Successfull
+[2025-06-17 09:40:04] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-17 09:40:07] [INFO ] [Myfile] - ammount summary page executed
+[2025-06-17 09:40:09] [INFO ] [Myfile] - BillingAdress page executed
+[2025-06-17 09:40:13] [INFO ] [Myfile] - ShippingAdress page executed
+[2025-06-17 09:40:24] [INFO ] [Myfile] - payment page executed
+[2025-06-17 09:40:26] [INFO ] [Myfile] - Signout successfull
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:08:25] [INFO ] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[2025-06-17 12:08:27] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-17 12:08:27] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-17 12:08:34] [INFO ] [Myfile] - URL opened
+[2025-06-17 12:08:36] [INFO ] [Myfile] - signin clicked
+[2025-06-17 12:08:38] [INFO ] [Myfile] - User Login Successfull
+[2025-06-17 12:08:43] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-17 12:08:44] [INFO ] [Myfile] - ammount summary page executed
+[2025-06-17 12:08:44] [INFO ] [Myfile] - BillingAdress page executed
+[2025-06-17 12:08:46] [INFO ] [Myfile] - ShippingAdress page executed
+[2025-06-17 12:08:53] [INFO ] [Myfile] - payment page executed
+[2025-06-17 12:08:55] [INFO ] [Myfile] - Signout successfull
+[2025-06-17 12:08:56] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@7f97bc14: 78 ms
+[2025-06-17 12:08:56] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@22d8f4ed: 0 ms
+[2025-06-17 12:08:56] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@6c33da7a: 10 ms
+[2025-06-17 12:08:56] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@113ee1ce: 11 ms
+[2025-06-17 12:08:56] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5a566922: 8 ms
+[2025-06-17 12:08:56] [INFO ] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6f7a2a5: 1 ms
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 12:10:40] [INFO ] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[2025-06-17 12:10:41] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-17 12:10:41] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-17 12:10:49] [INFO ] [Myfile] - URL opened
+[2025-06-17 12:10:51] [INFO ] [Myfile] - signin clicked
+[2025-06-17 12:10:53] [INFO ] [Myfile] - User Login Successfull
+[2025-06-17 12:10:58] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-17 12:10:59] [INFO ] [Myfile] - ammount summary page executed
+[2025-06-17 12:10:59] [INFO ] [Myfile] - BillingAdress page executed
+[2025-06-17 12:11:01] [INFO ] [Myfile] - ShippingAdress page executed
+[2025-06-17 12:11:08] [INFO ] [Myfile] - payment page executed
+[2025-06-17 12:11:09] [INFO ] [Myfile] - Signout successfull
+[2025-06-17 12:11:10] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@ca8ef3a: 48 ms
+[2025-06-17 12:11:10] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@17043b04: 0 ms
+[2025-06-17 12:11:10] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@7ccfdaef: 18 ms
+[2025-06-17 12:11:10] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2e4389ed: 14 ms
+[2025-06-17 12:11:10] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@468e8565: 0 ms
+[2025-06-17 12:11:10] [INFO ] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@91da29b: 0 ms
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:02:18] [INFO ] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[2025-06-17 15:02:20] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-17 15:02:20] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-17 15:02:29] [INFO ] [Myfile] - URL opened
+[2025-06-17 15:02:32] [INFO ] [Myfile] - signin clicked
+[2025-06-17 15:02:33] [INFO ] [Myfile] - User Login Successfull
+[2025-06-17 15:02:46] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@7945b206: 76 ms
+[2025-06-17 15:02:46] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@16a5c7e4: 31 ms
+[2025-06-17 15:02:46] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@7ca16adc: 10 ms
+[2025-06-17 15:02:46] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@9accff0: 11 ms
+[2025-06-17 15:02:46] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@58a84a12: 13 ms
+[2025-06-17 15:02:46] [INFO ] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@e700eba: 0 ms
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:03:09] [INFO ] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[2025-06-17 15:03:10] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-17 15:03:10] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-17 15:03:18] [INFO ] [Myfile] - URL opened
+[2025-06-17 15:03:21] [INFO ] [Myfile] - signin clicked
+[2025-06-17 15:03:22] [INFO ] [Myfile] - User Login Successfull
+[2025-06-17 15:03:28] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-17 15:03:29] [INFO ] [Myfile] - ammount summary page executed
+[2025-06-17 15:03:30] [INFO ] [Myfile] - BillingAdress page executed
+[2025-06-17 15:03:31] [INFO ] [Myfile] - ShippingAdress page executed
+[2025-06-17 15:03:38] [INFO ] [Myfile] - payment page executed
+[2025-06-17 15:03:40] [INFO ] [Myfile] - Signout successfull
+[2025-06-17 15:03:41] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@ca8ef3a: 63 ms
+[2025-06-17 15:03:41] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@17043b04: 0 ms
+[2025-06-17 15:03:41] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@7ccfdaef: 10 ms
+[2025-06-17 15:03:41] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2e4389ed: 6 ms
+[2025-06-17 15:03:41] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@468e8565: 0 ms
+[2025-06-17 15:03:41] [INFO ] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@91da29b: 0 ms
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:36:12] [INFO ] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+[2025-06-17 15:36:15] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-17 15:36:15] [INFO ] [Downloader] - Downloading https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.70/win64/chromedriver-win64.zip
+[2025-06-17 15:36:16] [INFO ] [Downloader] - Extracting driver from compressed file chromedriver-win64.zip
+[2025-06-17 15:36:17] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-17 15:36:34] [INFO ] [Myfile] - URL opened
+[2025-06-17 15:36:37] [INFO ] [Myfile] - signin clicked
+[2025-06-17 15:36:39] [INFO ] [Myfile] - User Login Successfull
+[2025-06-17 15:36:55] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@77b3752b: 103 ms
+[2025-06-17 15:36:55] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@40ce9049: 22 ms
+[2025-06-17 15:36:55] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@251c4280: 17 ms
+[2025-06-17 15:36:55] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@168ad26f: 13 ms
+[2025-06-17 15:36:55] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@61191222: 20 ms
+[2025-06-17 15:36:55] [INFO ] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@58833798: 1 ms
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:38:24] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:38:25] [INFO ] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[2025-06-17 15:38:25] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-17 15:38:25] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-17 15:38:36] [INFO ] [Myfile] - URL opened
+[2025-06-17 15:38:40] [INFO ] [Myfile] - signin clicked
+[2025-06-17 15:38:42] [INFO ] [Myfile] - User Login Successfull
+[2025-06-17 15:38:48] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-17 15:38:49] [INFO ] [Myfile] - ammount summary page executed
+[2025-06-17 15:38:51] [INFO ] [Myfile] - BillingAdress page executed
+[2025-06-17 15:38:52] [INFO ] [Myfile] - ShippingAdress page executed
+[2025-06-17 15:39:00] [INFO ] [Myfile] - payment page executed
+[2025-06-17 15:39:02] [INFO ] [Myfile] - Signout successfull
+[2025-06-17 15:39:03] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@627ff1b8: 102 ms
+[2025-06-17 15:39:03] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@62b57479: 1 ms
+[2025-06-17 15:39:03] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@e700eba: 15 ms
+[2025-06-17 15:39:03] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4b8137c5: 13 ms
+[2025-06-17 15:39:04] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@29896529: 11 ms
+[2025-06-17 15:39:04] [INFO ] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@e29f4f6: 1 ms
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:49:17] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-06-17 15:49:18] [INFO ] [Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[2025-06-17 15:49:19] [INFO ] [WebDriverManager] - Using chromedriver 137.0.7151.70 (resolved driver for Chrome 137)
+[2025-06-17 15:49:19] [INFO ] [WebDriverManager] - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win64\137.0.7151.70\chromedriver.exe
+[2025-06-17 15:49:32] [INFO ] [Myfile] - URL opened
+[2025-06-17 15:49:35] [INFO ] [Myfile] - signin clicked
+[2025-06-17 15:49:37] [INFO ] [Myfile] - User Login Successfull
+[2025-06-17 15:49:44] [INFO ] [Myfile] - selected printed summer dress
+[2025-06-17 15:49:45] [INFO ] [Myfile] - ammount summary page executed
+[2025-06-17 15:49:46] [INFO ] [Myfile] - BillingAdress page executed
+[2025-06-17 15:49:48] [INFO ] [Myfile] - ShippingAdress page executed
+[2025-06-17 15:49:55] [INFO ] [Myfile] - payment page executed
+[2025-06-17 15:49:56] [INFO ] [Myfile] - Signout successfull
+[2025-06-17 15:49:58] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.jq.Main@627ff1b8: 105 ms
+[2025-06-17 15:49:58] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.FailedReporter@62b57479: 1 ms
+[2025-06-17 15:49:58] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.XMLReporter@e700eba: 14 ms
+[2025-06-17 15:49:58] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4b8137c5: 14 ms
+[2025-06-17 15:49:58] [INFO ] [Utils] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@29896529: 12 ms
+[2025-06-17 15:49:58] [INFO ] [Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@e29f4f6: 0 ms
